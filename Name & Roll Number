@@ -2,6 +2,7 @@ Console.WriteLine("Haroon Mughal");
 Console.WriteLine("24-ST-006);
 
 
+
 Division:
 int a;
 int b; 
@@ -20,3 +21,12 @@ int a;
 int b;
 int sub = a-b;
 Console.WriteLine("sub"); 
+
+
+
+Addition:
+int x;
+int y;
+int sum = x+y;
+Console.WriteLine(sum);
+
