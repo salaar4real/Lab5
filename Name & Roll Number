@@ -1,2 +1,7 @@
 Console.WriteLine("Haroon Mughal");
 Console.WriteLine("24-ST-006);
+
+int p;
+int q;
+int multply = p*q;
+Conmsole.WriteLine(mulpiply);
