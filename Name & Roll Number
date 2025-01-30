@@ -1,7 +1,15 @@
 Console.WriteLine("Haroon Mughal");
 Console.WriteLine("24-ST-006);
 
+Division:
+int a;
+int b; 
+int division = a/b;
+Console.WriteLine(division);
+
+ Multiplication:
 int p;
 int q;
 int multply = p*q;
-Conmsole.WriteLine(mulpiply);
+Console.WriteLine(mulpiply);
+
