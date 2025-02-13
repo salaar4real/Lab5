@@ -20,5 +20,11 @@ int x;
 int y;
 int sum = x+y;
 Console.WriteLine(sum);
-
+Console.WriteLine("Haroon Mughal");
+Console.WriteLine("24-ST-006);
+Division:
+int a;
+int b; 
+int division = a/b;
+Console.WriteLine(division);
 amsjsnsn
